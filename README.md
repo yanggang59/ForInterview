@@ -1,2 +1,2 @@
 # ForInterview
-This is the data prepared for interview
+This is the documentation prepared for interview
